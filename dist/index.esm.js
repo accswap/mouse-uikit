@@ -2097,7 +2097,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/mousefarm",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2139,10 +2139,10 @@ var socials = [
             //   label: "Français",
             //   href: "https://t.me/pancakeswapfr",
             // },
-            {
-                label: "Announcements",
-                href: "https://t.me/goosefinanceann",
-            },
+            // {
+            //     label: "Announcements",
+            //     href: "https://t.me/goosefinanceann",
+            // },
         ],
     },
     {
