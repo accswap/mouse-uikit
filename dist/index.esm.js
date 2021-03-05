@@ -2148,7 +2148,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/ToadFarmBSC",
+        href: "https://twitter.com/MouseFarmBSC",
     },
 ];
 var MENU_HEIGHT = 64;
