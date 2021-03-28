@@ -112,7 +112,11 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/toadfarm",
+        href: "https://t.me/farmhubbsc",
+      },
+      {
+        label: "Announcements",
+        href: "https://t.me/farmhubannouncements",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -163,7 +167,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/ToadFarmBSC",
+    href: "https://twitter.com/FarmhubBSC",
   },
 ];
 
