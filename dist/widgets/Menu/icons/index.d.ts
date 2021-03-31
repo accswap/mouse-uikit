@@ -26,4 +26,7 @@ export { default as SnekFarmIcon } from "./SnekFarm";
 export { default as EagleFarmIcon } from "./EagleFarm";
 export { default as FarmhubIcon } from "./FarmhubIcon";
 export { default as EagleNestIcon } from "./EagleNest";
-export { default as MouseIcon } from "./MouseIcon";
+export { default as MouseBreeding } from "./MouseBreeding";
+export { default as ToadBreeding } from "./ToadBreeding";
+export { default as SnekBreeding } from "./SnekBreeding";
+export { default as EagleFeeding } from "./EagleFeeding";
