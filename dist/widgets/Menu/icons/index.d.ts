@@ -19,6 +19,7 @@ export { default as TwitterIcon } from "./Twitter";
 export { default as AuditIcon } from "./Audit";
 export { default as NestIcon } from "./Nest";
 export { default as GithubIcon } from "./Github";
+export { default as BooksIcon } from "./Books";
 export { default as ToadFarmIcon } from "./ToadFarm";
 export { default as MouseFarmIcon } from "./MouseFarm";
 export { default as SnekFarmIcon } from "./SnekFarm";
