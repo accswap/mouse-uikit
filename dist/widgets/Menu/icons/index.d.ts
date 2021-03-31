@@ -30,3 +30,4 @@ export { default as MouseBreeding } from "./MouseBreeding";
 export { default as ToadBreeding } from "./ToadBreeding";
 export { default as SnekBreeding } from "./SnekBreeding";
 export { default as EagleFeeding } from "./EagleFeeding";
+export { default as LiquidityIcon } from "./Liquidity";
