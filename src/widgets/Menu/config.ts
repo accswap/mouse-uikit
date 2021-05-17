@@ -99,7 +99,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/toadfarm/",
+        href: "https://github.com/Jinchuriki/",
       },
     ],
   },
@@ -112,11 +112,11 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/farmhubbsc",
+        href: "https://t.me/Jinchuriki",
       },
       {
         label: "Announcements",
-        href: "https://t.me/farmhubannouncements",
+        href: "https://t.me/Jinchuriki",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -167,7 +167,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FarmhubBSC",
+    href: "https://twitter.com/Jinchuriki",
   },
 ];
 
